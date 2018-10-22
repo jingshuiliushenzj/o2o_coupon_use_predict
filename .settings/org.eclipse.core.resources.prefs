@@ -1,0 +1,5 @@
+eclipse.preferences.version=1
+encoding/config.py=utf-8
+encoding/data_split.py=utf-8
+encoding/feature_extract.py=utf-8
+encoding/gen_data.py=utf-8
