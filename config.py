@@ -33,3 +33,18 @@ online_predict_feature_data_path='data/predict/online_predict_feature_data.csv'
 train_feature_save_path='data/train/'
 validate_feature_save_path='data/validate/'
 predict_feature_save_path='data/predict/'
+
+# model path
+model_path = './data/model/model'
+model_file = '/model'
+model_dump_file = '/model_dump.txt'
+model_fmap_file = '/model.fmap'
+model_feature_importance_file = '/feature_importance.png'
+model_feature_importance_csv = '/feature_importance.csv'
+model_train_log = '/train.log'
+model_params = '/param.json'
+
+# submission path
+submission_path = './data/submission/submission'
+submission_hist_file = '/hist.png'
+submission_file = '/submission.csv'
